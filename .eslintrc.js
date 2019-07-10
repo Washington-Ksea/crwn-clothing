@@ -5,6 +5,7 @@ module.exports = {
       node: true
     },
     parserOptions: {
+      parser: "eslint",
       ecmaVersion: 6,
       ecmaFeatures: {
         jsx: true
